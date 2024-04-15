@@ -1,0 +1,63 @@
+body
+{
+	font-family: Arial;
+	font-size: 12pt;
+	margin: 30px 30px 30px 30px;
+	background-image: url("pictures/eksofylo2.jpg");
+	color: white;
+}
+
+#logo
+{
+	text-align: center;
+	color: black;
+	font-style: italic;
+}
+
+#options
+{
+	position: absolutes;
+	background-image: url("pictures/paragogos.jpg");
+	background-repeat: no-repeat;
+	background-size: auto;
+	margin: auto;
+	max-width: 480px;
+	max-height: 150px;
+	text-align: center;
+	border: 15px outset black;
+	padding: 80px;
+}
+
+#choices
+{
+	position: absolute;
+	text-align: left;
+	color: black;
+	font-style: italic;
+	font-size: 24pt;
+}
+
+ul
+{
+	list-style: none;
+	position: relative;
+	margin: auto;
+}
+
+li
+{
+	float: left;
+	width: 80px;
+	height: 60px;
+	margin: 0 5px 0 5px;
+    padding: 0 10px 0 10px;
+	position:relative;
+    background: black;
+}
+
+a
+{
+	text-decoration: none;
+	color: white;
+	font-size: 8pt;
+}

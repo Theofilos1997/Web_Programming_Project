@@ -1,0 +1,268 @@
+
+body
+{
+	font-family: Arial;
+	font-size: 12pt;
+	margin: 30px 30px 30px 30px;
+	background-image: url("pictures/eksofylo2.jpg");;
+	color: white;
+	background-repeat: no-repeat;
+}
+
+#logo
+{
+	text-align: center;
+	color: black;
+	font-style: italic;
+	position: absolute;
+    top: 5px;
+	left: 5px;
+	padding: 2px;
+	background-color: rgba(199, 198, 198,0.7);
+
+	text-decoration: none;
+	color: black;
+	font-size: 15pt;
+	border: 2px outset white;
+}
+
+#logo1{
+		position: absolute;
+    top: 50px;
+	left: 150px;
+	padding: 10px;
+	background-color: rgba(199, 198, 198,0.7);
+	border-style: dotted solid dashed double;
+	text-decoration: none;
+	color: black;
+	font-size: 15pt;
+}
+
+#options
+{
+	position: absolutes;
+	background-image: url("pictures/paragogos.jpg");
+	background-repeat: no-repeat;
+	background-size: auto;
+	margin: auto;
+	max-width: 480px;
+	max-height: 150px;
+	text-align: center;
+	border: 15px outset black;
+	padding: 80px;
+}
+
+
+#options1
+{
+	position: absolutes;
+	background-image: url("pictures/trader.jpg");
+	background-repeat: no-repeat;
+	background-size: auto;
+	margin: auto;
+	max-width: 480px;
+	max-height: 150px;
+	text-align: center;
+	border: 15px outset black;
+	padding: 80px;
+}
+
+#choices
+{
+	position: absolute;
+	text-align: left;
+	color: black;
+	font-style: italic;
+	font-size: 24pt;
+}
+
+ul
+{
+	list-style: none;
+	position: relative;
+	margin: auto;
+}
+
+li
+{
+	float: left;
+	width: 80px;
+	height: 60px;
+	margin: 0 5px 0 5px;
+    padding: 0 10px 0 10px;
+	position:relative;
+    background: black;
+}
+
+a
+{
+	text-decoration: none;
+	color: white;
+	font-size: 8pt;
+}
+
+h1
+{
+	text-decoration: none;
+	color: white;
+	font-size: 18pt;
+	border-style: dotted solid dashed double;
+	width: 220px;
+}
+
+.back_btn
+{
+
+    left: 5px;
+    top: 1px;
+
+}
+
+.producer_new
+{
+	position:absolute;
+	top: 180px;
+	width: 220px;
+	background-color: rgba(199, 198, 198,0.4);
+	border: 1px solid #4CAF50;
+	padding: 10px;
+	
+}
+
+.products
+{
+	position:absolute;
+	top: 180px;
+	left: 280px;
+	width: 220px;
+	background-color: rgba(199, 198, 198,0.4);
+	border: 1px solid #4CAF50;
+	padding: 10px;
+	
+}
+
+.products1
+{
+	font-size: 15pt;
+	
+}
+
+.show_btn
+{
+	
+    position: relative;
+	left: 90px;
+
+
+}
+
+.a
+{
+	text-decoration: none;
+	color: white;
+	font-size: 18pt;
+	border-style: dotted solid dashed double;
+	width: 230px;
+}
+
+.menu {
+	padding: 10px;
+	background-color: rgba(100, 198, 198,0.9);
+	color: black;
+	font-size: 15pt;
+}
+
+.pay {
+
+	color: blue;
+}
+
+#content1 {
+	padding: 10px;
+	background-color: rgba(199, 198, 198,0.4);
+	width: 350px;
+}
+
+#content2 {
+	padding: 10px;
+	background-color: rgba(199, 198, 198,0.4);
+	width: 900px;
+	border: 1px solid black;
+}
+
+.mybids
+{
+
+	width: 240px;
+}
+
+.offer
+{
+	
+	text-decoration: none;
+	color: black;
+	font-size: 18pt;
+	border-style:  solid  double;
+	width: 220px;
+}
+
+.insert_offer
+{
+	position:relative;
+	top: 20px;
+	width: 220px;
+	background-color: rgba(199, 198, 198,0.4);
+	border: 1px solid black;
+	padding: 10px;
+	
+}
+
+#content3 {
+	padding: 10px;
+	background-color: rgba(199, 198, 198,0.4);
+	width: 950px;
+	border: 1px solid black;
+}
+
+.auctions1
+{
+	
+	text-decoration: none;
+	color: black;
+	font-size: 18pt;
+	border-style:  solid  double;
+	width: 220px;
+}
+
+.id1
+{
+
+	color: blue;
+	font-size: 12pt;
+}
+
+.end
+{
+
+	color: red;
+	font-size: 12pt;
+}
+.start
+{
+
+	color: green;
+	font-size: 12pt;
+}
+.price
+{
+
+	color: red;
+	font-size: 12pt;
+}
+
+#content4 {
+	padding: 10px;
+	background-color: rgba(199, 198, 198,0.4);
+	width: 550px;
+	border: 1px solid black;
+}
